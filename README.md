@@ -1,0 +1,2 @@
+# Priklad---ockovani
+Příklad
